@@ -4,13 +4,19 @@ I want to collect and show here an (in)complete list of terminal tool for monito
 ## Aggregated: CPU, Memory, Disks, Processes, Bandwith
 
 ### bashtop
+```
 brew instlal bashtop
+```
 
 ### btop
+```
 brew install btop
+```
 
 ### glance
+```
 brew install glance
+```
 
 ## CPU
 
@@ -18,14 +24,20 @@ brew install glance
 Installed by default
 
 ### htop
+```
 brew install htop
+```
 
 ## Networking, bandwith
 
 ### iftop
+```
 brew install iftop
+```
 
 ### nethogs
+```
 brew install nethogs
+```
 
 ### iptraf
