@@ -23,6 +23,9 @@ brew install glance
 ### ps
 Installed by default
 
+### top
+Installed by default
+
 ### htop
 ```
 brew install htop
