@@ -1,5 +1,5 @@
 # terminal-monitoring
-I want to collect and show here an (in)complete list of terminal tool for monitoring machine resources from terminal (bash).
+I want to collect and show here an (in)complete list of tools for monitoring machine resources from terminal (bash).
 
 ## Aggregated: CPU, Memory, Disks, Processes, Bandwith
 
@@ -8,7 +8,7 @@ I want to collect and show here an (in)complete list of terminal tool for monito
 ```
 brew install bashtop
 ```
-### On Debian/UBuntu
+### On Debian/Ubuntu
 ```
 sudo apt install bashtop
 ```
@@ -18,7 +18,7 @@ sudo apt install bashtop
 ```
 brew install btop
 ```
-### On Debian/UBuntu
+### On Debian/Ubuntu
 ```
 sudo apt install btop
 ```
@@ -27,7 +27,7 @@ sudo apt install btop
 ```
 brew install glance
 ```
-### On Debian/UBuntu (glances not glance as for Mac)
+### On Debian/Ubuntu (glances not glance as for Mac)
 ```
 sudo apt install glances
 ```
@@ -44,7 +44,7 @@ Installed by default
 ```
 brew install htop
 ```
-### On Debian/UBuntu
+### On Debian/Ubuntu
 ```
 sudo apt install htp
 ```
@@ -55,7 +55,7 @@ sudo apt install htp
 ```
 brew install iftop
 ```
-### On Debian/UBuntu
+### On Debian/Ubuntu
 ```
 sudo apt install iftop
 ```
@@ -64,14 +64,14 @@ sudo apt install iftop
 ```
 brew install nethogs
 ```
-### On Debian/UBuntu
+### On Debian/Ubuntu
 ```
 sudo apt install nethogs
 ```
 ### iptraf
 #### On Mac
 Today, is not available on brew a version for Mac
-### On Debian/UBuntu
+### On Debian/Ubuntu
 ```
 sudo apt install iptraf
 ```
